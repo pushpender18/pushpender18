@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpender18&label=Profile%20views&color=0e75b6&style=flat" alt="pushpender18" /> </p>
 
-- 🔭 I’m currently working on **Genpact**
+- 🔭 I’m currently working on **HI COMPONENTS**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AI Development**
 
-- 💬 Ask me about **Development**
+- 💬 Ask me about **Web-Development**
 
-- 📫 How to reach me **sidhartarawat@gmail.com**
+- 📫 How to reach me **21bppushpender@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
