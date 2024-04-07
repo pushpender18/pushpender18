@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pushpender</h1>
-<h3 align="center">A passionate full Stack developer & AI from India</h3>
+<h3 align="center">A passionate full Stack developer & AI developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpender18&label=Profile%20views&color=0e75b6&style=flat" alt="pushpender18" /> </p>
 
